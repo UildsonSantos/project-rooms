@@ -1,0 +1,8 @@
+one/digitalinnovation/crud/meetingroom/meetingroom/MeetingroomApplication.class
+one/digitalinnovation/crud/meetingroom/meetingroom/exception/ResourceNotFoundException.class
+one/digitalinnovation/crud/meetingroom/meetingroom/controller/RoomController.class
+one/digitalinnovation/crud/meetingroom/meetingroom/exception/ErrorDetails$ErrorDetailsBuilder.class
+one/digitalinnovation/crud/meetingroom/meetingroom/repository/RoomRepository.class
+one/digitalinnovation/crud/meetingroom/meetingroom/exception/ErrorDetails.class
+one/digitalinnovation/crud/meetingroom/meetingroom/exception/GlobalExceptionHandler.class
+one/digitalinnovation/crud/meetingroom/meetingroom/model/Room.class
