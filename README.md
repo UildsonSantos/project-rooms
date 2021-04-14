@@ -9,7 +9,7 @@ No diretório /meeting_room_server
 ```shell script
 mvn spring-boot:run 
 ```
-depois ...
+depois, em outro terminal...
 
 No diretorio /client-room
 
